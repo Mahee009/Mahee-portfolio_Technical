@@ -33,4 +33,4 @@ A creative, dark-themed portfolio to showcase projects, ideas, and experiments a
 <img width="1920" height="1080" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/f4335668-769a-487f-8d40-c6e3e869b5c7" />
 <img width="1920" height="1080" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/1011426c-47d6-4ad5-9294-6477793a9620" />
 <img width="1920" height="1080" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/f24950f6-8357-43f6-96af-9373ff5b70e7" />
-<img width="1920" height="1080" alt="Screenshot (60)" src="https://github.com/user-attachments/assets/93d68e61-34c2-4f5b-b8eb-0eea89f94d3c" />
+
